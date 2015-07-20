@@ -1,23 +1,23 @@
 #strlib2.tns
-基于TI-BASIC的Nspire字符串函数库
-现提供以下功能：
-str_add(str,lct,addStr)增添
-str_chkBlank(str)删除多余空格
-strstr_chkPrnths(str,isWarning)检查括号
-str_chkSqrt(str)检查没有加括号的√
-str_clear(str,clr)除去clr
-str_combine(list,mark)合并
-str_count(str,subStr)计算出现次数
-str_del(str,lct)删除
-str_div(str,mark)拆分
-str_inList(list,subject,start)搜寻元素
-str_inStrPRO(str,subLst,start,opt)升级版的inString
-str_lower2UPPER(str)小写转换成大写
-str_ordList2str(ordList)数值代码数组转换成字符串
-str_replace(str,old,new)替换
-str_rev(str)反转
-str_str2ordList(str)字符串转换成数值代码数组
-str_this(str,lct)索引
-str_UPPER2lower(str)大写转换成小写
-进入文档查看详细说明(可能需要OS3.2)
-可使用TI-Nspire图形计算器或者教师版/学生版软件来打开tns文件
+基于TI-BASIC的Nspire字符串函数库<br />
+现提供以下功能：<br />
+str_add(str,lct,addStr)增添<br />
+str_chkBlank(str)删除多余空格<br />
+strstr_chkPrnths(str,isWarning)检查括号<br />
+str_chkSqrt(str)检查没有加括号的√<br />
+str_clear(str,clr)除去clr<br />
+str_combine(list,mark)合并<br />
+str_count(str,subStr)计算出现次数<br />
+str_del(str,lct)删除<br />
+str_div(str,mark)拆分<br />
+str_inList(list,subject,start)搜寻元素<br />
+str_inStrPRO(str,subLst,start,opt)升级版的inString<br />
+str_lower2UPPER(str)小写转换成大写<br />
+str_ordList2str(ordList)数值代码数组转换成字符串<br />
+str_replace(str,old,new)替换<br />
+str_rev(str)反转<br />
+str_str2ordList(str)字符串转换成数值代码数组<br />
+str_this(str,lct)索引<br />
+str_UPPER2lower(str)大写转换成小写<br />
+进入文档查看详细说明(可能需要OS3.2)<br />
+可使用TI-Nspire图形计算器或者教师版/学生版软件来打开tns文件<br />
